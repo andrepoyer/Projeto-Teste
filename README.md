@@ -1,6 +1,6 @@
 ## Desafio técnico para desenvolvedores
 
-Construa uma nova aplicação, utilizando o framework Angular, a qual deverá conectar na API do [Rick and Morty](https://rickandmortyapi.com/) e disponibilizar as seguintes funcionalidades:
+Construa uma nova aplicação, utilizando o framework Angular ou VueJS (de acordo com sua preferência), a qual deverá conectar na API do [Rick and Morty](https://rickandmortyapi.com/) e disponibilizar as seguintes funcionalidades:
 
 1. **Campo de Pesquisa com Autocomplete:**
    - Implemente um campo de pesquisa que utilize autocomplete de acordo com a digitação do usuário, mostrando opções para o mesmo.
