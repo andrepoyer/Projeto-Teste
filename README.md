@@ -20,5 +20,6 @@ Construa uma nova aplicação, utilizando o framework Angular ou VueJS (de acord
 
 **Observações:**
 - O uso de PostgreSQL, MySQL ou SQL Server como banco de dados é opcional.
+- Para fazer o Pull Request você precisa criar um Fork do repositório e depois realizar o PR desse fork para o nosso repo.
 - Ao finalizar, faça um Pull Request neste repositório e nos avise por email.
 - Caso não consiga finalizar o teste, por favor nos informe o motivo e suas dificuldades. Você pode também sugerir uma abordagem alternativa para avaliarmos suas habilidades técnicas.
